@@ -1,0 +1,26 @@
+body{
+    background-color: lightcoral;
+}
+
+h2{
+    font-size: small;
+}
+
+#caja1{
+    font-size: larger;
+    float: right;
+    background-color: aliceblue;
+}
+
+#caja2{
+    width: 500px;
+    height: 250px;
+    color: palevioletred;
+    float: left;
+    border: 1rem;
+    background-color: chartreuse;
+}
+
+img{
+    float: right;
+}
